@@ -1,0 +1,17 @@
+# Required packages for custom object detection training
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+PyYAML>=6.0
+numpy>=1.21.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
+tqdm>=4.64.0
+pandas>=1.3.0
+seaborn>=0.11.0
+
+# Optional packages for data annotation
+labelImg>=1.8.6
+
+# For advanced training features
+torch>=1.13.0
+torchvision>=0.14.0
