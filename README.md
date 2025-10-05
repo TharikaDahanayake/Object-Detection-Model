@@ -17,9 +17,6 @@ This project aims to do real-time object detection through a laptop camera or we
 ## 🎯 Features**Hi!**
 
 
-
-### 🤖 **4-Model Integration:**![alt text](https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV/blob/master/real_time_output_gif/real_time_output.gif)
-
 - **📱 MobileNetSSD** - General object detection (20+ classes: person, chair, dog, car, etc.)
 
 - **📚 YOLOv8 Books** - Custom trained book detection model### How to run this code?
