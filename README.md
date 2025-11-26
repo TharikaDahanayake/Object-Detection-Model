@@ -29,15 +29,15 @@ It includes specialized detection for:
 
 ### Technologies Used
 
-Python 3.8+
-OpenCV
-YOLOv8 (Ultralytics)
-MobileNet SSD
-NumPy
-ML Training
-PyTorch
-Roboflow datasets
-YOLO training pipelines
+- Python 3.8+
+- OpenCV
+- YOLOv8 (Ultralytics)
+- MobileNet SSD
+- NumPy
+- ML Training
+- PyTorch
+- Roboflow datasets
+- YOLO training pipelines
 
 ### Run the Enhanced Detection System
 cd main_systems
