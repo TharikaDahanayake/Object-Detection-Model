@@ -1,6 +1,6 @@
-# Everyday is a Learning Day !
+# Multi-Model Real-Time Object Detection System
 
-## Multi-Model Real-Time Object Detection System
+## Everyday is a Learning Day !
 
 ### Overview
 This project is an enhanced object detection system built using Python, OpenCV, and YOLOv8, capable of detecting 100+ object types in real time. By running 5 different AI models simultaneously, the system achieves superior accuracy and robustness.
@@ -43,5 +43,7 @@ It includes specialized detection for:
 cd main_systems
 python enhanced_multi_detection.py
 
-Thank You & Best Regards !
-Tharika Dahanayake.
+#### Thank You Guys & Good Luck!!
+
+Best Regards,
+**_Tharika Dahanayake_**
